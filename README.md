@@ -18,7 +18,7 @@
         src="./profile.png"
         align="right"
         height="200"
-        alt="jrodriguezdiazz"
+        alt="Personal photo: jrodriguezdiazz"
     />
     </a>
     <p>
@@ -32,16 +32,10 @@
     <li>
         🔭 I’m currently working on
         <a
-        href="https://intellisysdcorp.com/"
+        href="https://www.linkedin.com/company/newtechsa/"
         target="_blank"
         rel="noopener noreferrer"
-        >Intellisys D. Corp.</a
-        >
-    </li>
-    <li>
-        📫 How to reach me
-        <a href="mailto:jrodriguezdiazz@outlook.com"
-        >jrodriguezdiazz@outlook.com</a
+        >Newtech S. R. L.</a
         >
     </li>
     <li>
@@ -61,14 +55,6 @@
         rel="noopener noreferrer"
         >ReactJS</a
         >
-        <i>(Front-End)</i> and
-        <a
-        href="https://github.com/topics/python"
-        target="_blank"
-        rel="noopener noreferrer"
-        >Python</a
-        >
-        <i>(Back-End)</i>
     </li>
     <li>
         💬 Ask me about
@@ -83,12 +69,6 @@
         target="_blank"
         rel="noopener noreferrer"
         >ReactJS</a
-        >,
-        <a
-        href="https://github.com/topics/python"
-        target="_blank"
-        rel="noopener noreferrer"
-        >Python</a
         >,
         <a
         href="https://www.linkedin.com/feed/hashtag/webdevelopement/"
@@ -135,17 +115,6 @@
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3"
-                    width="40"
-                    height="40"
-                /></a>
-                <a
-                href="https://sass-lang.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                >
-                <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                    alt="sass"
                     width="40"
                     height="40"
                 /></a>
@@ -245,39 +214,6 @@
                     height="40"
                 /></a>
                 <a
-                href="https://www.python.org"
-                target="_blank"
-                rel="noopener noreferrer"
-                >
-                <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python"
-                    width="40"
-                    height="40"
-                /></a>
-                <a
-                href="https://flask.palletsprojects.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                >
-                <img
-                    src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-                    alt="flask"
-                    width="40"
-                    height="40"
-                /></a>
-                <a
-                href="https://www.php.net"
-                target="_blank"
-                rel="noopener noreferrer"
-                >
-                <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-                    alt="php"
-                    width="40"
-                    height="40"
-                /></a>
-                <a
                 href="https://www.postgresql.org"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -300,15 +236,6 @@
                     height="40"
                 />
                 </a>
-            </p>
-            </div>
-        </td>
-        </tr>
-        <tr>
-        <td colspan="2">
-            <div class="tools" align="center">
-            <h3>Tools</h3>
-            <p>
                 <a
                 href="https://firebase.google.com/"
                 target="_blank"
@@ -331,6 +258,15 @@
                     width="40"
                     height="40"
                 /></a>
+            </p>
+            </div>
+        </td>
+        </tr>
+        <tr>
+        <td colspan="2">
+            <div class="tools" align="center">
+            <h3>Tools</h3>
+            <p>
                 <a
                 href="https://git-scm.com/"
                 target="_blank"
