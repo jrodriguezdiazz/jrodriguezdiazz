@@ -41,7 +41,7 @@
     <li>
         📄 Know about my experiences in
         <a
-        href="./Resume-Jorge-de-Jesús-Rodríguez-Díaz.pdf"
+        href="https://github.com/jrodriguezdiazz/jrodriguezdiazz/blob/master/Resume-Jorge-de-Jes%C3%BAs-Rodr%C3%ADguez-D%C3%ADaz.pdf"
         target="_blank"
         rel="noopener noreferrer"
         >Resume-Jorge-de-Jesús-Rodríguez-Díaz.pdf</a
