@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">
   👨🏾‍💻
-  <span style="font-style: italic">Software Engineer</span>
+  <span style="font-style: italic">A passionate Software Engineer from Dom. Rep.</span>
 </h3>
 <div>
   <a
@@ -22,17 +22,22 @@
     />
   </a>
   <p>
-    I'm a software engineer, with 3 years of experience in web development, who
-    likes to work as a team doing my bit to reach feasible solutions to problems
-    that customers have that seem to have no answer by implementing cutting-edge
-    and scalable technologies following good development practices.
+    Jorge is an experienced software engineer with 4 years of industry experience developing web applications. My strong technical skills include expertise in modern web technologies such as React, NodeJS, TypeScript, HTML, CSS, and SQL. He's a team player who is eager to learn and always willing to help others. With his vast experience and skill set, Jorge is an invaluable asset to any web development team.
   </p>
   <ul>
     <li class="has-line-data" data-line-start="1" data-line-end="2">
       🔭 I’m currently working at
       <em
-        ><a href="https://www.linkedin.com/company/newtechsa/"
-          >Newtech S. R. L.</a
+        ><a href="https://www.epam.com/"
+          >EPAM Systems</a
+        ></em
+      >
+    </li>
+    <li class="has-line-data" data-line-start="1" data-line-end="2">
+      👯 I’m looking to collaborate on
+      <em
+        ><a href="https://www.dowjones.com/"
+          >AdTech Team of DowJones</a
         ></em
       >
     </li>
@@ -41,14 +46,6 @@
       <em
         ><strong
           >How to be a better developer and person every day that passes</strong
-        ></em
-      >
-    </li>
-    <li class="has-line-data" data-line-start="3" data-line-end="4">
-      👨‍💻 All of my projects are available at
-      <em
-        ><a href="https://www.jrodriguezdiazz.me/"
-          >https://www.jrodriguezdiazz.me/</a
         ></em
       >
     </li>
@@ -95,18 +92,29 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                  alt="react"
+                  alt="ReactJS"
                   width="40"
                   height="40"
               /></a>
               <a href="https://angular.io" target="_blank" rel="noreferrer">
                 <img
-                  src="https://angular.io/assets/images/logos/angular/angular.svg"
-                  alt="angular"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
+                  alt="Angular"
                   width="40"
                   height="40"
                 />
               </a>
+              <a
+                href="https://redux.js.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+                  alt="Redux"
+                  width="40"
+                  height="40"
+              /></a>
               <a
                 href="https://www.typescriptlang.org/"
                 target="_blank"
@@ -114,7 +122,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                  alt="typescript"
+                  alt="TypeScript"
                   width="40"
                   height="40"
               /></a>
@@ -125,7 +133,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                  alt="javascript"
+                  alt="JavaScript"
                   width="40"
                   height="40"
               /></a>
@@ -136,7 +144,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                  alt="html5"
+                  alt="HTML"
                   width="40"
                   height="40"
               /></a>
@@ -147,22 +155,21 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                  alt="css3"
+                  alt="CSS"
                   width="40"
                   height="40"
               /></a>
               <a
-                href="https://tailwindcss.com/"
+                href="https://mui.com/core/"
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
               >
                 <img
-                  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                  alt="tailwind"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+                  alt="Material UI"
                   width="40"
                   height="40"
-                />
-              </a>
+              /></a>
               <a
                 href="https://getbootstrap.com"
                 target="_blank"
@@ -170,18 +177,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                  alt="bootstrap"
-                  width="40"
-                  height="40"
-              /></a>
-              <a
-                href="https://d3js.org/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-                  alt="d3js"
+                  alt="Bootstrap"
                   width="40"
                   height="40"
               /></a>
@@ -199,7 +195,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                  alt="nodejs"
+                  alt="Node.js"
                   width="40"
                   height="40"
               /></a>
@@ -210,7 +206,18 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                  alt="express"
+                  alt="ExpressJS"
+                  width="40"
+                  height="40"
+              /></a>
+              <a
+                href="https://www.python.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                  alt="Python"
                   width="40"
                   height="40"
               /></a>
@@ -221,7 +228,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                  alt="postgresql"
+                  alt="PostgreSQL"
                   width="40"
                   height="40"
               /></a>
@@ -232,7 +239,19 @@
               >
                 <img
                   src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-                  alt="mssql"
+                  alt="Microsoft Sql Server"
+                  width="40"
+                  height="40"
+                />
+              </a>
+              <a
+                href="https://www.mysql.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                  alt="MySQL"
                   width="40"
                   height="40"
                 />
@@ -243,8 +262,8 @@
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-                  alt="firebase"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+                  alt="Firebase"
                   width="40"
                   height="40"
               /></a>
@@ -254,8 +273,8 @@
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-                  alt="gcp"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+                  alt="Google Cloud Platform"
                   width="40"
                   height="40"
               /></a>
@@ -274,8 +293,8 @@
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-                  alt="git"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+                  alt="Git"
                   width="40"
                   height="40"
               /></a>
@@ -285,8 +304,19 @@
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg"
-                  alt="github"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+                  alt="GitHub"
+                  width="40"
+                  height="40"
+              /></a>
+              <a
+                href="https://www.gnu.org/software/bash/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+                  alt="Bash"
                   width="40"
                   height="40"
               /></a>
@@ -296,8 +326,19 @@
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-                  alt="jest"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+                  alt="Jest"
+                  width="40"
+                  height="40"
+              /></a>
+              <a
+                href="https://mochajs.org"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"
+                  alt="Mocha"
                   width="40"
                   height="40"
               /></a>
@@ -308,29 +349,29 @@
               >
                 <img
                   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                  alt="postman"
+                  alt="Postman"
                   width="40"
                   height="40"
               /></a>
               <a
-                href="https://www.npmjs.com/"
+                href="https://www.figma.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg"
-                  alt="npm"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+                  alt="Figma"
                   width="40"
                   height="40"
               /></a>
               <a
-                href="https://yarnpkg.com/"
+                href="https://www.apple.com/macos/ventura/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/yarn/yarn-original.svg"
-                  alt="yarn"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
+                  alt="macOS"
                   width="40"
                   height="40"
               /></a>
@@ -341,7 +382,7 @@
               >
                 <img
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                  alt="linux"
+                  alt="Linux"
                   width="40"
                   height="40"
               /></a>
@@ -351,7 +392,7 @@
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/windows8/windows8-original.svg"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
                   alt="windows 10"
                   width="40"
                   height="40"
