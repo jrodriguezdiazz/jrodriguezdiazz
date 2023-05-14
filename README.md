@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">
   👨🏾‍💻
-  <span style="font-style: italic">A passionate Software Engineer from Dom. Rep.</span>
+  <span style="font-style: italic">Senior Software Engineer</span>
 </h3>
 <div>
   <a
@@ -34,7 +34,7 @@
       >
     </li>
     <li class="has-line-data" data-line-start="1" data-line-end="2">
-      👯 I’m looking to collaborate on
+      👯 I currently work as part of
       <em
         ><a href="https://www.dowjones.com/"
           >AdTech Team of DowJones</a
