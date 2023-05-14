@@ -466,24 +466,4 @@
       height="30"
       width="40"
   /></a>
-  <a
-    href="https://twitter.com/jrodriguezdiazz/"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-      alt="Twitter: jrodriguezdiazz"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://t.me/jrodriguezdiazz"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg"
-      alt="Telegram: jrodriguezdiazz"
-      height="30"
-      width="40"
-  /></a>
 </div>
