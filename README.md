@@ -15,7 +15,7 @@
     rel="noopener noreferrer"
   >
     <img
-      src="./profile.jpg"
+      src="./profile.png"
       align="right"
       height="200"
       alt="Personal photo: jrodriguezdiazz"
