@@ -20,12 +20,12 @@
       alt="Personal photo: jrodriguezdiazz" />
   </a>
   <p>
-    Jorge is an experienced software engineer with 4 years of industry
-    experience developing web applications. His strong technical skills
-    include expertise in modern web technologies such as React, NodeJS,
-    TypeScript, HTML, CSS, and SQL. He's a team player who is eager to learn
-    and always willing to help others. With his vast experience and skill
-    set, Jorge is an invaluable asset to any web development team.
+    Jorge is a skilled Software Engineer with five years of professional
+    experience in crafting and optimizing web applications. He has a strong
+    technical knowledge of modern web technologies such as Next.js,
+    PostgreSQL, TypeScript, and Node.js. Jorge is known for his collaborative
+    spirit and willingness to help his peers. He is constantly seeking to
+    expand his knowledge and skills.
   </p>
   <ul>
     <li class="has-line-data" data-line-start="1" data-line-end="2">
