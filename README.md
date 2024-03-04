@@ -63,7 +63,7 @@
       📄 Know about my experiences
       <em
         ><a
-          href="https://github.com/jrodriguezdiazz/jrodriguezdiazz/blob/master/Resume-Jorge-de-Jes%C3%BAs-Rodr%C3%ADguez-D%C3%ADaz.pdf"
+          href="https://github.com/jrodriguezdiazz/jrodriguezdiazz/blob/master/Resume-Jorge-de-Jesu%CC%81s-Rodri%CC%81guez-Di%CC%81az.pdf"
           >Resume-Jorge-de-Jesús-Rodríguez-Díaz.pdf</a
         ></em
       >
