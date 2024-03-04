@@ -12,40 +12,38 @@
   <a
     href="https://www.linkedin.com/in/jrodriguezdiazz/"
     target="_blank"
-    rel="noopener noreferrer"
-  >
+    rel="noopener noreferrer">
     <img
       src="./profile.png"
       align="right"
       height="200"
-      alt="Personal photo: jrodriguezdiazz"
-    />
+      alt="Personal photo: jrodriguezdiazz" />
   </a>
   <p>
-    Jorge is an experienced software engineer with 4 years of industry experience developing web applications. His strong technical skills include expertise in modern web technologies such as React, NodeJS, TypeScript, HTML, CSS, and SQL. He's a team player who is eager to learn and always willing to help others. With his vast experience and skill set, Jorge is an invaluable asset to any web development team.
+    Jorge is an experienced software engineer with 4 years of industry
+    experience developing web applications. His strong technical skills
+    include expertise in modern web technologies such as React, NodeJS,
+    TypeScript, HTML, CSS, and SQL. He's a team player who is eager to learn
+    and always willing to help others. With his vast experience and skill
+    set, Jorge is an invaluable asset to any web development team.
   </p>
   <ul>
     <li class="has-line-data" data-line-start="1" data-line-end="2">
       🔭 I’m currently working at
-      <em
-        ><a href="https://www.epam.com/"
-          >EPAM Systems</a
-        ></em
-      >
+      <em><a href="https://www.epam.com/">EPAM Systems</a></em>
     </li>
     <li class="has-line-data" data-line-start="1" data-line-end="2">
       👯 I currently work as part of
       <em
-        ><a href="https://www.dowjones.com/"
-          >AdTech Team of DowJones</a
-        ></em
+        ><a href="https://www.dowjones.com/">AdTech Team of DowJones</a></em
       >
     </li>
     <li class="has-line-data" data-line-start="2" data-line-end="3">
       🌱 I’m currently learning
       <em
         ><strong
-          >How to be a better developer and person every day that passes</strong
+          >How to be a better developer and person every day that
+          passes</strong
         ></em
       >
     </li>
@@ -85,102 +83,96 @@
           <div class="front-end" align="center">
             <h3>Front-End</h3>
             <p>
+              <!-- Next.js -->
+              <a
+                href="https://nextjs.org/"
+                target="_blank"
+                rel="noopener noreferrer">
+                <img
+                  src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+                  alt="Next.js" />
+              </a>
+              <!-- ReactJS -->
               <a
                 href="https://reactjs.org/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                  alt="ReactJS"
-                  width="40"
-                  height="40"
-              /></a>
-              <a href="https://angular.io" target="_blank" rel="noreferrer">
-                <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
-                  alt="Angular"
-                  width="40"
-                  height="40"
-                />
+                  src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+                  alt="ReactJS" />
               </a>
+              <!-- Angular -->
               <a
-                href="https://redux.js.org/"
+                href="https://angular.io"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                  alt="Redux"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+                  alt="Angular" />
+              </a>
+              <!-- TypeScript -->
               <a
                 href="https://www.typescriptlang.org/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                  alt="TypeScript"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+                  alt="TypeScript" />
+              </a>
+              <!-- JavaScript -->
               <a
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                  alt="JavaScript"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+                  alt="JavaScript" />
+              </a>
+              <!-- HTML5 -->
               <a
                 href="https://www.w3.org/html/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                  alt="HTML"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+                  alt="HTML5" />
+              </a>
+              <!-- CSS3 -->
               <a
                 href="https://www.w3schools.com/css/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                  alt="CSS"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+                  alt="CSS3" />
+              </a>
+              <!-- Material UI -->
               <a
-                href="https://mui.com/core/"
+                href="https://mui.com/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-                  alt="Material UI"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+                  alt="Material UI" />
+              </a>
+              <!-- Bootstrap -->
               <a
                 href="https://getbootstrap.com"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                  alt="Bootstrap"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+                  alt="Bootstrap" />
+              </a>
+              <!-- D3.js -->
+              <a
+                href="https://d3js.org/"
+                target="_blank"
+                rel="noopener noreferrer">
+                <img
+                  src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"
+                  alt="D3.js" />
+              </a>
             </p>
           </div>
         </td>
@@ -188,96 +180,96 @@
           <div class="back-end" align="center">
             <h3>Back-End</h3>
             <p>
+              <!-- Node.js -->
               <a
                 href="https://nodejs.org"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                  alt="Node.js"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+                  alt="Node.js" />
+              </a>
+              <!-- Express.js -->
               <a
                 href="https://expressjs.com"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                  alt="ExpressJS"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+                  alt="Express.js" />
+              </a>
+              <!-- GraphQL -->
+              <a
+                href="https://graphql.org/"
+                target="_blank"
+                rel="noopener noreferrer">
+                <img
+                  src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+                  alt="GraphQL" />
+              </a>
+              <!-- Python -->
               <a
                 href="https://www.python.org/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                  alt="Python"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                  alt="Python" />
+              </a>
+              <!-- PostgreSQL -->
               <a
                 href="https://www.postgresql.org"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                  alt="PostgreSQL"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+                  alt="PostgreSQL" />
+              </a>
+              <!-- Microsoft SQL Server -->
               <a
                 href="https://www.microsoft.com/en-us/sql-server"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-                  alt="Microsoft Sql Server"
-                  width="40"
-                  height="40"
-                />
+                  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
+                  alt="Microsoft SQL Server" />
               </a>
+              <!-- MySQL -->
               <a
                 href="https://www.mysql.com/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                  alt="MySQL"
-                  width="40"
-                  height="40"
-                />
+                  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+                  alt="MySQL" />
               </a>
+              <!-- MongoDB -->
+              <a
+                href="https://www.mongodb.com/"
+                target="_blank"
+                rel="noopener noreferrer">
+                <img
+                  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+                  alt="MongoDB" />
+              </a>
+              <!-- Firebase -->
               <a
                 href="https://firebase.google.com/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
-                  alt="Firebase"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+                  alt="Firebase" />
+              </a>
+              <!-- Google Cloud Platform -->
               <a
                 href="https://cloud.google.com"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
-                  alt="Google Cloud Platform"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+                  alt="Google Cloud Platform" />
+              </a>
             </p>
           </div>
         </td>
@@ -285,118 +277,107 @@
       <tr>
         <td colspan="2">
           <div class="tools" align="center">
-            <h3>Tools</h3>
+            <h3>Tools & Others</h3>
             <p>
+              <!-- Git -->
               <a
                 href="https://git-scm.com/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-                  alt="Git"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+                  alt="Git" />
+              </a>
+              <!-- GitHub -->
               <a
                 href="https://github.com/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-                  alt="GitHub"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+                  alt="GitHub" />
+              </a>
+              <!-- Bash -->
               <a
                 href="https://www.gnu.org/software/bash/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
-                  alt="Bash"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"
+                  alt="Bash" />
+              </a>
+              <!-- Jest -->
               <a
                 href="https://jestjs.io"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
-                  alt="Jest"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+                  alt="Jest" />
+              </a>
+              <!-- Mocha -->
               <a
                 href="https://mochajs.org"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"
-                  alt="Mocha"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"
+                  alt="Mocha" />
+              </a>
+              <!-- Postman -->
               <a
                 href="https://postman.com"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                  alt="Postman"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+                  alt="Postman" />
+              </a>
+              <!-- Figma -->
               <a
                 href="https://www.figma.com/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
-                  alt="Figma"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+                  alt="Figma" />
+              </a>
+              <!-- macOS -->
               <a
-                href="https://www.apple.com/macos/ventura/"
+                href="https://www.apple.com/macos"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
-                  alt="macOS"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"
+                  alt="macOS" />
+              </a>
+              <!-- Linux -->
               <a
                 href="https://www.linux.org/"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                  alt="Linux"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+                  alt="Linux" />
+              </a>
+              <!-- Windows -->
               <a
-                href="https://www.microsoft.com/es-es/software-download/windows10"
+                href="https://www.microsoft.com/windows"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
-                  alt="windows 10"
-                  width="40"
-                  height="40"
-              /></a>
+                  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+                  alt="Windows" />
+              </a>
+              <!-- Google Ads -->
+              <a
+                href="https://ads.google.com/intl/en_us/home/"
+                target="_blank"
+                rel="noopener noreferrer">
+                <img
+                  src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white"
+                  alt="Google Ads" />
+              </a>
             </p>
           </div>
         </td>
@@ -404,6 +385,7 @@
     </tbody>
   </table>
 </div>
+
 <br />
 <div class="metrics" align="center">
   <h2>Metrics</h2>
@@ -415,16 +397,14 @@
             height="180em"
             align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=jrodriguezdiazz&show_icons=true&theme=dark&locale=en&layout=compact"
-            alt="Most Used Languages"
-          />
+            alt="Most Used Languages" />
         </td>
         <td>
           <img
             height="180em"
             align="center"
             src="https://github-readme-stats.vercel.app/api?username=jrodriguezdiazz&show_icons=true&theme=dark&locale=en"
-            alt="Github Stats"
-          />
+            alt="Github Stats" />
         </td>
       </tr>
       <tr>
@@ -435,8 +415,7 @@
               height="180em"
               align="center"
               src="https://github-readme-streak-stats.herokuapp.com/?user=jrodriguezdiazz&theme=dark"
-              alt="Github Readme Streak Stats"
-            />
+              alt="Github Readme Streak Stats" />
           </p>
         </td>
       </tr>
