@@ -1,12 +1,12 @@
 <h1 align="center">
   👋🏾 Hi, I'm
-  <span style="font-weight: bold; font-style: italic">
-    Jorge de Jesús Rodríguez Díaz
+  <span style="font-weight: bold">
+    Jorge Rodríguez
   </span>
 </h1>
 <h3 align="center">
   👨🏾‍💻
-  <span style="font-style: italic">Senior Software Engineer</span>
+  <span>Senior Software Engineer</span>
 </h3>
 <div>
   <a
@@ -20,12 +20,13 @@
       alt="Personal photo: jrodriguezdiazz" />
   </a>
   <p>
-    Jorge is a skilled Software Engineer with five years of professional
-    experience in crafting and optimizing web applications. He has a strong
-    technical knowledge of modern web technologies such as Next.js,
-    PostgreSQL, TypeScript, and Node.js. Jorge is known for his collaborative
-    spirit and willingness to help his peers. He is constantly seeking to
-    expand his knowledge and skills.
+    Senior Software Engineer
+    with 6 years of experience architecting, developing, and
+    optimizing web applications using React, Node.js, and PostgreSQL.
+    Known for my analytical thinking and attention to detail, I
+    combine deep technical expertise with a collaborative mindset to
+    drive code quality, accelerate time-to-market, and foster
+    cross-functional teamwork.
   </p>
   <ul>
     <li class="has-line-data" data-line-start="1" data-line-end="2">
@@ -37,19 +38,6 @@
       <em
         ><a href="https://www.dowjones.com/">AdTech Team of DowJones</a></em
       >
-    </li>
-    <li class="has-line-data" data-line-start="2" data-line-end="3">
-      🌱 I’m currently learning
-      <em
-        ><strong
-          >How to be a better developer and person every day that
-          passes</strong
-        ></em
-      >
-    </li>
-    <li class="has-line-data" data-line-start="4" data-line-end="5">
-      💬 Ask me about
-      <em><strong>Web Development and Continuous Improvement</strong></em>
     </li>
     <li class="has-line-data" data-line-start="5" data-line-end="6">
       📫 How to reach me
@@ -63,13 +51,34 @@
       📄 Know about my experiences
       <em
         ><a
-          href="https://github.com/jrodriguezdiazz/jrodriguezdiazz/blob/master/Resume-Jorge-de-Jesu%CC%81s-Rodri%CC%81guez-Di%CC%81az.pdf"
-          >Resume-Jorge-de-Jesús-Rodríguez-Díaz.pdf</a
+          href="https://drive.google.com/file/d/15HpCi03e9owKfG_lAFlZ4hfKb6sdzkOb/view"
+          >Resume-Jorge-Rodríguez.pdf</a
         ></em
       >
     </li>
+    <li class="has-line-data" data-line-start="5" data-line-end="6">
+      👨‍💻 All of my projects are available at 
+      <em
+        ><a href="https://jrodriguezdiazz.vercel.app"
+          >https://jrodriguezdiazz.vercel.app</a
+        ></em
+      >
+    </li>
+    <li class="has-line-data" data-line-start="4" data-line-end="5">
+      💬 Ask me about
+      <em><strong>Web Development and Continuous Improvement</strong></em>
+    </li>
     <li class="has-line-data" data-line-start="7" data-line-end="8">
       ❤️ I love <em><strong>Run, Gym, Memes and Clean Code</strong></em>
+    </li>
+    <li class="has-line-data" data-line-start="2" data-line-end="3">
+      🌱 I’m currently learning
+      <em
+        ><strong
+          >How to be a better developer and person every day that
+          passes</strong
+        ></em
+      >
     </li>
   </ul>
 </div>
@@ -387,42 +396,7 @@
 </div>
 
 <br />
-<div class="metrics" align="center">
-  <h2>Metrics</h2>
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <img
-            height="180em"
-            align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=jrodriguezdiazz&show_icons=true&theme=dark&locale=en&layout=compact"
-            alt="Most Used Languages" />
-        </td>
-        <td>
-          <img
-            height="180em"
-            align="center"
-            src="https://github-readme-stats.vercel.app/api?username=jrodriguezdiazz&show_icons=true&theme=dark&locale=en"
-            alt="Github Stats" />
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <p align="center">
-            &nbsp;
-            <img
-              height="180em"
-              align="center"
-              src="https://github-readme-streak-stats.herokuapp.com/?user=jrodriguezdiazz&theme=dark"
-              alt="Github Readme Streak Stats" />
-          </p>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<br />
+
 <div class="connect-with-me" align="center">
   <h2>Connect with me</h2>
   <a
